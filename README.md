@@ -1,11 +1,3 @@
-## DB Browser for SQLite
-- https://sqlitebrowser.org/
-
-### Linux installation
-```
-sudo snap install sqlitebrowser
-```
-
 ## Run
 ```
 go test --bench=. -count 3
